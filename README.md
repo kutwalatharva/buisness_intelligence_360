@@ -1,7 +1,7 @@
 # buisness_intelligence_360
 
 ---
-
+Live Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYjYyOGU5MWItOWE4OS00ZWQ5LTllODctNjQ4NTRjMDIwZTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 🚀 *Empowering Data-Driven Decisions for AtliQ Hardware* 🔍
 
 AtliQ, a leading hardware manufacturing company, faced significant losses while expanding in Latin America due to intuition-based decisions and outdated tools. To tackle these challenges, I implemented an end-to-end data analytics solution, enabling the company to make transparent, data-driven decisions using Power BI. 📊
